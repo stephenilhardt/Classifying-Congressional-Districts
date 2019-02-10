@@ -1,0 +1,165 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+EST_VC01,Estimate; Total population
+MOE_VC01,Margin of Error; Total population
+EST_VC03,Estimate; Total population - SEX AND AGE - Male
+MOE_VC03,Margin of Error; Total population - SEX AND AGE - Male
+EST_VC04,Estimate; Total population - SEX AND AGE - Female
+MOE_VC04,Margin of Error; Total population - SEX AND AGE - Female
+EST_VC05,Estimate; Total population - SEX AND AGE - Under 5 years
+MOE_VC05,Margin of Error; Total population - SEX AND AGE - Under 5 years
+EST_VC06,Estimate; Total population - SEX AND AGE - 5 to 9 years
+MOE_VC06,Margin of Error; Total population - SEX AND AGE - 5 to 9 years
+EST_VC07,Estimate; Total population - SEX AND AGE - 10 to 14 years
+MOE_VC07,Margin of Error; Total population - SEX AND AGE - 10 to 14 years
+EST_VC08,Estimate; Total population - SEX AND AGE - 15 to 19 years
+MOE_VC08,Margin of Error; Total population - SEX AND AGE - 15 to 19 years
+EST_VC09,Estimate; Total population - SEX AND AGE - 20 to 24 years
+MOE_VC09,Margin of Error; Total population - SEX AND AGE - 20 to 24 years
+EST_VC10,Estimate; Total population - SEX AND AGE - 25 to 34 years
+MOE_VC10,Margin of Error; Total population - SEX AND AGE - 25 to 34 years
+EST_VC11,Estimate; Total population - SEX AND AGE - 35 to 44 years
+MOE_VC11,Margin of Error; Total population - SEX AND AGE - 35 to 44 years
+EST_VC12,Estimate; Total population - SEX AND AGE - 45 to 54 years
+MOE_VC12,Margin of Error; Total population - SEX AND AGE - 45 to 54 years
+EST_VC13,Estimate; Total population - SEX AND AGE - 55 to 59 years
+MOE_VC13,Margin of Error; Total population - SEX AND AGE - 55 to 59 years
+EST_VC14,Estimate; Total population - SEX AND AGE - 60 to 64 years
+MOE_VC14,Margin of Error; Total population - SEX AND AGE - 60 to 64 years
+EST_VC15,Estimate; Total population - SEX AND AGE - 65 to 74 years
+MOE_VC15,Margin of Error; Total population - SEX AND AGE - 65 to 74 years
+EST_VC16,Estimate; Total population - SEX AND AGE - 75 to 84 years
+MOE_VC16,Margin of Error; Total population - SEX AND AGE - 75 to 84 years
+EST_VC17,Estimate; Total population - SEX AND AGE - 85 years and over
+MOE_VC17,Margin of Error; Total population - SEX AND AGE - 85 years and over
+EST_VC18,Estimate; Total population - SEX AND AGE - Median age (years)
+MOE_VC18,Margin of Error; Total population - SEX AND AGE - Median age (years)
+EST_VC19,Estimate; Total population - SEX AND AGE - 18 years and over
+MOE_VC19,Margin of Error; Total population - SEX AND AGE - 18 years and over
+EST_VC20,Estimate; Total population - SEX AND AGE - 21 years and over
+MOE_VC20,Margin of Error; Total population - SEX AND AGE - 21 years and over
+EST_VC21,Estimate; Total population - SEX AND AGE - 62 years and over
+MOE_VC21,Margin of Error; Total population - SEX AND AGE - 62 years and over
+EST_VC22,Estimate; Total population - SEX AND AGE - 65 years and over
+MOE_VC22,Margin of Error; Total population - SEX AND AGE - 65 years and over
+EST_VC23,Estimate; Total population - SEX AND AGE - 18 years and over
+MOE_VC23,Margin of Error; Total population - SEX AND AGE - 18 years and over
+EST_VC24,Estimate; Total population - SEX AND AGE - 18 years and over - Male
+MOE_VC24,Margin of Error; Total population - SEX AND AGE - 18 years and over - Male
+EST_VC25,Estimate; Total population - SEX AND AGE - 18 years and over - Female
+MOE_VC25,Margin of Error; Total population - SEX AND AGE - 18 years and over - Female
+EST_VC26,Estimate; Total population - SEX AND AGE - 65 years and over
+MOE_VC26,Margin of Error; Total population - SEX AND AGE - 65 years and over
+EST_VC27,Estimate; Total population - SEX AND AGE - 65 years and over - Male
+MOE_VC27,Margin of Error; Total population - SEX AND AGE - 65 years and over - Male
+EST_VC28,Estimate; Total population - SEX AND AGE - 65 years and over - Female
+MOE_VC28,Margin of Error; Total population - SEX AND AGE - 65 years and over - Female
+EST_VC30,Estimate; Total population - RACE - One race
+MOE_VC30,Margin of Error; Total population - RACE - One race
+EST_VC31,Estimate; Total population - RACE - Two or more races
+MOE_VC31,Margin of Error; Total population - RACE - Two or more races
+EST_VC32,Estimate; Total population
+MOE_VC32,Margin of Error; Total population
+EST_VC33,Estimate; Total population - One race
+MOE_VC33,Margin of Error; Total population - One race
+EST_VC34,Estimate; Total population - One race - White
+MOE_VC34,Margin of Error; Total population - One race - White
+EST_VC35,Estimate; Total population - One race - Black or African American
+MOE_VC35,Margin of Error; Total population - One race - Black or African American
+EST_VC36,Estimate; Total population - One race - American Indian and Alaska Native
+MOE_VC36,Margin of Error; Total population - One race - American Indian and Alaska Native
+EST_VC37,Estimate; Total population - One race - American Indian and Alaska Native - Cherokee tribal grouping
+MOE_VC37,Margin of Error; Total population - One race - American Indian and Alaska Native - Cherokee tribal grouping
+EST_VC38,Estimate; Total population - One race - American Indian and Alaska Native - Chippewa tribal grouping
+MOE_VC38,Margin of Error; Total population - One race - American Indian and Alaska Native - Chippewa tribal grouping
+EST_VC39,Estimate; Total population - One race - American Indian and Alaska Native - Navajo tribal grouping
+MOE_VC39,Margin of Error; Total population - One race - American Indian and Alaska Native - Navajo tribal grouping
+EST_VC40,Estimate; Total population - One race - American Indian and Alaska Native - Sioux tribal grouping
+MOE_VC40,Margin of Error; Total population - One race - American Indian and Alaska Native - Sioux tribal grouping
+EST_VC41,Estimate; Total population - One race - Asian
+MOE_VC41,Margin of Error; Total population - One race - Asian
+EST_VC42,Estimate; Total population - One race - Asian - Asian Indian
+MOE_VC42,Margin of Error; Total population - One race - Asian - Asian Indian
+EST_VC43,Estimate; Total population - One race - Asian - Chinese
+MOE_VC43,Margin of Error; Total population - One race - Asian - Chinese
+EST_VC44,Estimate; Total population - One race - Asian - Filipino
+MOE_VC44,Margin of Error; Total population - One race - Asian - Filipino
+EST_VC45,Estimate; Total population - One race - Asian - Japanese
+MOE_VC45,Margin of Error; Total population - One race - Asian - Japanese
+EST_VC46,Estimate; Total population - One race - Asian - Korean
+MOE_VC46,Margin of Error; Total population - One race - Asian - Korean
+EST_VC47,Estimate; Total population - One race - Asian - Vietnamese
+MOE_VC47,Margin of Error; Total population - One race - Asian - Vietnamese
+EST_VC48,Estimate; Total population - One race - Asian - Other Asian
+MOE_VC48,Margin of Error; Total population - One race - Asian - Other Asian
+EST_VC49,Estimate; Total population - One race - Native Hawaiian and Other Pacific Islander
+MOE_VC49,Margin of Error; Total population - One race - Native Hawaiian and Other Pacific Islander
+EST_VC50,Estimate; Total population - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+MOE_VC50,Margin of Error; Total population - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+EST_VC51,Estimate; Total population - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+MOE_VC51,Margin of Error; Total population - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+EST_VC52,Estimate; Total population - One race - Native Hawaiian and Other Pacific Islander - Samoan
+MOE_VC52,Margin of Error; Total population - One race - Native Hawaiian and Other Pacific Islander - Samoan
+EST_VC53,Estimate; Total population - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+MOE_VC53,Margin of Error; Total population - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+EST_VC54,Estimate; Total population - One race - Some other race
+MOE_VC54,Margin of Error; Total population - One race - Some other race
+EST_VC55,Estimate; Total population - Two or more races
+MOE_VC55,Margin of Error; Total population - Two or more races
+EST_VC56,Estimate; Total population - Two or more races - White and Black or African American
+MOE_VC56,Margin of Error; Total population - Two or more races - White and Black or African American
+EST_VC57,Estimate; Total population - Two or more races - White and American Indian and Alaska Native
+MOE_VC57,Margin of Error; Total population - Two or more races - White and American Indian and Alaska Native
+EST_VC58,Estimate; Total population - Two or more races - White and Asian
+MOE_VC58,Margin of Error; Total population - Two or more races - White and Asian
+EST_VC59,Estimate; Total population - Two or more races - Black or African American and American Indian and Alaska Native
+MOE_VC59,Margin of Error; Total population - Two or more races - Black or African American and American Indian and Alaska Native
+EST_VC61,Estimate; Race alone or in combination with one or more other races - Total population
+MOE_VC61,Margin of Error; Race alone or in combination with one or more other races - Total population
+EST_VC62,Estimate; Race alone or in combination with one or more other races - Total population - White
+MOE_VC62,Margin of Error; Race alone or in combination with one or more other races - Total population - White
+EST_VC63,Estimate; Race alone or in combination with one or more other races - Total population - Black or African American
+MOE_VC63,Margin of Error; Race alone or in combination with one or more other races - Total population - Black or African American
+EST_VC64,Estimate; Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+MOE_VC64,Margin of Error; Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+EST_VC65,Estimate; Race alone or in combination with one or more other races - Total population - Asian
+MOE_VC65,Margin of Error; Race alone or in combination with one or more other races - Total population - Asian
+EST_VC66,Estimate; Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+MOE_VC66,Margin of Error; Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+EST_VC67,Estimate; Race alone or in combination with one or more other races - Total population - Some other race
+MOE_VC67,Margin of Error; Race alone or in combination with one or more other races - Total population - Some other race
+EST_VC69,Estimate; HISPANIC OR LATINO AND RACE - Total population
+MOE_VC69,Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+EST_VC70,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+MOE_VC70,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+EST_VC71,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+MOE_VC71,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+EST_VC72,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+MOE_VC72,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+EST_VC73,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+MOE_VC73,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+EST_VC74,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+MOE_VC74,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+EST_VC75,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+MOE_VC75,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+EST_VC76,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+MOE_VC76,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+EST_VC77,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+MOE_VC77,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+EST_VC78,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+MOE_VC78,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+EST_VC79,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+MOE_VC79,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+EST_VC80,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+MOE_VC80,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+EST_VC81,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+MOE_VC81,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+EST_VC82,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+MOE_VC82,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+EST_VC83,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+MOE_VC83,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+EST_VC84,"Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+MOE_VC84,"Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+EST_VC85,Estimate; Total housing units
+MOE_VC85,Margin of Error; Total housing units

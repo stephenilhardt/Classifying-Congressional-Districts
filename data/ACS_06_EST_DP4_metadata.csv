@@ -1,0 +1,259 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+EST_VC02,Estimate; HOUSING OCCUPANCY - Total housing units
+MOE_VC02,Margin of Error; HOUSING OCCUPANCY - Total housing units
+EST_VC03,Estimate; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+MOE_VC03,Margin of Error; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+EST_VC04,Estimate; HOUSING OCCUPANCY - Total housing units - Vacant housing units
+MOE_VC04,Margin of Error; HOUSING OCCUPANCY - Total housing units - Vacant housing units
+EST_VC05,Estimate; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate
+MOE_VC05,Margin of Error; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate
+EST_VC06,Estimate; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate
+MOE_VC06,Margin of Error; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate
+EST_VC08,"Estimate; UNITS IN STRUCTURE - 1-unit, detached"
+MOE_VC08,"Margin of Error; UNITS IN STRUCTURE - 1-unit, detached"
+EST_VC09,"Estimate; UNITS IN STRUCTURE - 1-unit, attached"
+MOE_VC09,"Margin of Error; UNITS IN STRUCTURE - 1-unit, attached"
+EST_VC10,Estimate; UNITS IN STRUCTURE - 2 units
+MOE_VC10,Margin of Error; UNITS IN STRUCTURE - 2 units
+EST_VC11,Estimate; UNITS IN STRUCTURE - 3 or 4 units
+MOE_VC11,Margin of Error; UNITS IN STRUCTURE - 3 or 4 units
+EST_VC12,Estimate; UNITS IN STRUCTURE - 5 to 9 units
+MOE_VC12,Margin of Error; UNITS IN STRUCTURE - 5 to 9 units
+EST_VC13,Estimate; UNITS IN STRUCTURE - 10 to 19 units
+MOE_VC13,Margin of Error; UNITS IN STRUCTURE - 10 to 19 units
+EST_VC14,Estimate; UNITS IN STRUCTURE - 20 or more units
+MOE_VC14,Margin of Error; UNITS IN STRUCTURE - 20 or more units
+EST_VC15,Estimate; UNITS IN STRUCTURE - Mobile home
+MOE_VC15,Margin of Error; UNITS IN STRUCTURE - Mobile home
+EST_VC16,"Estimate; UNITS IN STRUCTURE - Boat, RV, van, etc."
+MOE_VC16,"Margin of Error; UNITS IN STRUCTURE - Boat, RV, van, etc."
+EST_VC18,Estimate; YEAR STRUCTURE BUILT - Built 2005 or later
+MOE_VC18,Margin of Error; YEAR STRUCTURE BUILT - Built 2005 or later
+EST_VC19,Estimate; YEAR STRUCTURE BUILT - Built 2000 to 2004
+MOE_VC19,Margin of Error; YEAR STRUCTURE BUILT - Built 2000 to 2004
+EST_VC20,Estimate; YEAR STRUCTURE BUILT - Built 1990 to 1999
+MOE_VC20,Margin of Error; YEAR STRUCTURE BUILT - Built 1990 to 1999
+EST_VC21,Estimate; YEAR STRUCTURE BUILT - Built 1980 to 1989
+MOE_VC21,Margin of Error; YEAR STRUCTURE BUILT - Built 1980 to 1989
+EST_VC22,Estimate; YEAR STRUCTURE BUILT - Built 1970 to 1979
+MOE_VC22,Margin of Error; YEAR STRUCTURE BUILT - Built 1970 to 1979
+EST_VC23,Estimate; YEAR STRUCTURE BUILT - Built 1960 to 1969
+MOE_VC23,Margin of Error; YEAR STRUCTURE BUILT - Built 1960 to 1969
+EST_VC24,Estimate; YEAR STRUCTURE BUILT - Built 1950 to 1959
+MOE_VC24,Margin of Error; YEAR STRUCTURE BUILT - Built 1950 to 1959
+EST_VC25,Estimate; YEAR STRUCTURE BUILT - Built 1940 to 1949
+MOE_VC25,Margin of Error; YEAR STRUCTURE BUILT - Built 1940 to 1949
+EST_VC26,Estimate; YEAR STRUCTURE BUILT - Built 1939 or earlier
+MOE_VC26,Margin of Error; YEAR STRUCTURE BUILT - Built 1939 or earlier
+EST_VC28,Estimate; ROOMS - 1 room
+MOE_VC28,Margin of Error; ROOMS - 1 room
+EST_VC29,Estimate; ROOMS - 2 rooms
+MOE_VC29,Margin of Error; ROOMS - 2 rooms
+EST_VC30,Estimate; ROOMS - 3 rooms
+MOE_VC30,Margin of Error; ROOMS - 3 rooms
+EST_VC31,Estimate; ROOMS - 4 rooms
+MOE_VC31,Margin of Error; ROOMS - 4 rooms
+EST_VC32,Estimate; ROOMS - 5 rooms
+MOE_VC32,Margin of Error; ROOMS - 5 rooms
+EST_VC33,Estimate; ROOMS - 6 rooms
+MOE_VC33,Margin of Error; ROOMS - 6 rooms
+EST_VC34,Estimate; ROOMS - 7 rooms
+MOE_VC34,Margin of Error; ROOMS - 7 rooms
+EST_VC35,Estimate; ROOMS - 8 rooms
+MOE_VC35,Margin of Error; ROOMS - 8 rooms
+EST_VC36,Estimate; ROOMS - 9 rooms or more
+MOE_VC36,Margin of Error; ROOMS - 9 rooms or more
+EST_VC37,Estimate; ROOMS - Median (rooms)
+MOE_VC37,Margin of Error; ROOMS - Median (rooms)
+EST_VC39,Estimate; BEDROOMS - No bedroom
+MOE_VC39,Margin of Error; BEDROOMS - No bedroom
+EST_VC40,Estimate; BEDROOMS - 1 bedroom
+MOE_VC40,Margin of Error; BEDROOMS - 1 bedroom
+EST_VC41,Estimate; BEDROOMS - 2 bedrooms
+MOE_VC41,Margin of Error; BEDROOMS - 2 bedrooms
+EST_VC42,Estimate; BEDROOMS - 3 bedrooms
+MOE_VC42,Margin of Error; BEDROOMS - 3 bedrooms
+EST_VC43,Estimate; BEDROOMS - 4 bedrooms
+MOE_VC43,Margin of Error; BEDROOMS - 4 bedrooms
+EST_VC44,Estimate; BEDROOMS - 5 or more bedrooms
+MOE_VC44,Margin of Error; BEDROOMS - 5 or more bedrooms
+EST_VC45,Estimate; Occupied housing units
+MOE_VC45,Margin of Error; Occupied housing units
+EST_VC47,Estimate; Occupied housing units - HOUSING TENURE - Owner-occupied
+MOE_VC47,Margin of Error; Occupied housing units - HOUSING TENURE - Owner-occupied
+EST_VC48,Estimate; Occupied housing units - HOUSING TENURE - Renter-occupied
+MOE_VC48,Margin of Error; Occupied housing units - HOUSING TENURE - Renter-occupied
+EST_VC49,Estimate; Occupied housing units - HOUSING TENURE - Average household size of owner-occupied unit
+MOE_VC49,Margin of Error; Occupied housing units - HOUSING TENURE - Average household size of owner-occupied unit
+EST_VC50,Estimate; Occupied housing units - HOUSING TENURE - Average household size of renter-occupied unit
+MOE_VC50,Margin of Error; Occupied housing units - HOUSING TENURE - Average household size of renter-occupied unit
+EST_VC52,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 2005 or later
+MOE_VC52,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 2005 or later
+EST_VC53,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 2000 to 2004
+MOE_VC53,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 2000 to 2004
+EST_VC54,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1990 to 1999
+MOE_VC54,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1990 to 1999
+EST_VC55,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1980 to 1989
+MOE_VC55,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1980 to 1989
+EST_VC56,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1970 to 1979
+MOE_VC56,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1970 to 1979
+EST_VC57,Estimate; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1969 or earlier
+MOE_VC57,Margin of Error; Occupied housing units - YEAR HOUSEHOLDER MOVED INTO UNIT - Moved in 1969 or earlier
+EST_VC59,Estimate; Occupied housing units - VEHICLES AVAILABLE - No vehicles available
+MOE_VC59,Margin of Error; Occupied housing units - VEHICLES AVAILABLE - No vehicles available
+EST_VC60,Estimate; Occupied housing units - VEHICLES AVAILABLE - 1 vehicle available
+MOE_VC60,Margin of Error; Occupied housing units - VEHICLES AVAILABLE - 1 vehicle available
+EST_VC61,Estimate; Occupied housing units - VEHICLES AVAILABLE - 2 vehicles available
+MOE_VC61,Margin of Error; Occupied housing units - VEHICLES AVAILABLE - 2 vehicles available
+EST_VC62,Estimate; Occupied housing units - VEHICLES AVAILABLE - 3 or more vehicles available
+MOE_VC62,Margin of Error; Occupied housing units - VEHICLES AVAILABLE - 3 or more vehicles available
+EST_VC64,Estimate; Occupied housing units - HOUSE HEATING FUEL - Utility gas
+MOE_VC64,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Utility gas
+EST_VC65,"Estimate; Occupied housing units - HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+MOE_VC65,"Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+EST_VC66,Estimate; Occupied housing units - HOUSE HEATING FUEL - Electricity
+MOE_VC66,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Electricity
+EST_VC67,"Estimate; Occupied housing units - HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+MOE_VC67,"Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+EST_VC68,Estimate; Occupied housing units - HOUSE HEATING FUEL - Coal or coke
+MOE_VC68,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Coal or coke
+EST_VC69,Estimate; Occupied housing units - HOUSE HEATING FUEL - Wood
+MOE_VC69,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Wood
+EST_VC70,Estimate; Occupied housing units - HOUSE HEATING FUEL - Solar energy
+MOE_VC70,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Solar energy
+EST_VC71,Estimate; Occupied housing units - HOUSE HEATING FUEL - Other fuel
+MOE_VC71,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - Other fuel
+EST_VC72,Estimate; Occupied housing units - HOUSE HEATING FUEL - No fuel used
+MOE_VC72,Margin of Error; Occupied housing units - HOUSE HEATING FUEL - No fuel used
+EST_VC74,Estimate; Occupied housing units - SELECTED CHARACTERISTICS - Lacking complete plumbing facilities
+MOE_VC74,Margin of Error; Occupied housing units - SELECTED CHARACTERISTICS - Lacking complete plumbing facilities
+EST_VC75,Estimate; Occupied housing units - SELECTED CHARACTERISTICS - Lacking complete kitchen facilities
+MOE_VC75,Margin of Error; Occupied housing units - SELECTED CHARACTERISTICS - Lacking complete kitchen facilities
+EST_VC76,Estimate; Occupied housing units - SELECTED CHARACTERISTICS - No telephone service available
+MOE_VC76,Margin of Error; Occupied housing units - SELECTED CHARACTERISTICS - No telephone service available
+EST_VC78,Estimate; Occupied housing units - OCCUPANTS PER ROOM - 1.00 or less
+MOE_VC78,Margin of Error; Occupied housing units - OCCUPANTS PER ROOM - 1.00 or less
+EST_VC79,Estimate; Occupied housing units - OCCUPANTS PER ROOM - 1.01 to 1.50
+MOE_VC79,Margin of Error; Occupied housing units - OCCUPANTS PER ROOM - 1.01 to 1.50
+EST_VC80,Estimate; Occupied housing units - OCCUPANTS PER ROOM - 1.51 or more
+MOE_VC80,Margin of Error; Occupied housing units - OCCUPANTS PER ROOM - 1.51 or more
+EST_VC81,Estimate; Owner-occupied units
+MOE_VC81,Margin of Error; Owner-occupied units
+EST_VC83,"Estimate; Owner-occupied units - VALUE - Less than $50,000"
+MOE_VC83,"Margin of Error; Owner-occupied units - VALUE - Less than $50,000"
+EST_VC84,"Estimate; Owner-occupied units - VALUE - $50,000 to $99,999"
+MOE_VC84,"Margin of Error; Owner-occupied units - VALUE - $50,000 to $99,999"
+EST_VC85,"Estimate; Owner-occupied units - VALUE - $100,000 to $149,999"
+MOE_VC85,"Margin of Error; Owner-occupied units - VALUE - $100,000 to $149,999"
+EST_VC86,"Estimate; Owner-occupied units - VALUE - $150,000 to $199,999"
+MOE_VC86,"Margin of Error; Owner-occupied units - VALUE - $150,000 to $199,999"
+EST_VC87,"Estimate; Owner-occupied units - VALUE - $200,000 to $299,999"
+MOE_VC87,"Margin of Error; Owner-occupied units - VALUE - $200,000 to $299,999"
+EST_VC88,"Estimate; Owner-occupied units - VALUE - $300,000 to $499,999"
+MOE_VC88,"Margin of Error; Owner-occupied units - VALUE - $300,000 to $499,999"
+EST_VC89,"Estimate; Owner-occupied units - VALUE - $500,000 to $999,999"
+MOE_VC89,"Margin of Error; Owner-occupied units - VALUE - $500,000 to $999,999"
+EST_VC90,"Estimate; Owner-occupied units - VALUE - $1,000,000 or more"
+MOE_VC90,"Margin of Error; Owner-occupied units - VALUE - $1,000,000 or more"
+EST_VC91,Estimate; Owner-occupied units - VALUE - Median (dollars)
+MOE_VC91,Margin of Error; Owner-occupied units - VALUE - Median (dollars)
+EST_VC93,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage
+MOE_VC93,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage
+EST_VC94,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - Less than $300
+MOE_VC94,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - Less than $300
+EST_VC95,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $300 to $499
+MOE_VC95,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $300 to $499
+EST_VC96,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $500 to $699
+MOE_VC96,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $500 to $699
+EST_VC97,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $700 to $999
+MOE_VC97,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $700 to $999
+EST_VC98,"Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $1,000 to $1,499"
+MOE_VC98,"Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $1,000 to $1,499"
+EST_VC99,"Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $1,500 to $1,999"
+MOE_VC99,"Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $1,500 to $1,999"
+EST_VC100,"Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $2,000 or more"
+MOE_VC100,"Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - $2,000 or more"
+EST_VC101,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - Median (dollars)
+MOE_VC101,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units with a mortgage - Median (dollars)
+EST_VC102,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage
+MOE_VC102,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage
+EST_VC103,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - Less than $100
+MOE_VC103,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - Less than $100
+EST_VC104,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $100 to $199
+MOE_VC104,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $100 to $199
+EST_VC105,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $200 to $299
+MOE_VC105,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $200 to $299
+EST_VC106,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $300 to $399
+MOE_VC106,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $300 to $399
+EST_VC107,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $400 or more
+MOE_VC107,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - $400 or more
+EST_VC108,Estimate; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - Median (dollars)
+MOE_VC108,Margin of Error; Owner-occupied units - MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS - Housing units without a mortgage - Median (dollars)
+EST_VC110,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage
+MOE_VC110,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage
+EST_VC111,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - Less than 20.0 percent
+MOE_VC111,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - Less than 20.0 percent
+EST_VC112,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 20.0 to 24.9 percent
+MOE_VC112,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 20.0 to 24.9 percent
+EST_VC113,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 25.0 to 29.9 percent
+MOE_VC113,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 25.0 to 29.9 percent
+EST_VC114,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 30.0 to 34.9 percent
+MOE_VC114,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 30.0 to 34.9 percent
+EST_VC115,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 35.0 percent or more
+MOE_VC115,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - 35.0 percent or more
+EST_VC116,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - Not computed
+MOE_VC116,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit with a mortgage - Not computed
+EST_VC117,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage
+MOE_VC117,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage
+EST_VC118,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - Less than 10.0 percent
+MOE_VC118,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - Less than 10.0 percent
+EST_VC119,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 10.0 to 14.9 percent
+MOE_VC119,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 10.0 to 14.9 percent
+EST_VC120,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 15.0 to 19.9 percent
+MOE_VC120,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 15.0 to 19.9 percent
+EST_VC121,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 20.0 to 24.9 percent
+MOE_VC121,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 20.0 to 24.9 percent
+EST_VC122,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 25.0 to 29.9 percent
+MOE_VC122,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 25.0 to 29.9 percent
+EST_VC123,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 30.0 to 34.9 percent
+MOE_VC123,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 30.0 to 34.9 percent
+EST_VC124,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 35.0 percent or more
+MOE_VC124,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - 35.0 percent or more
+EST_VC125,Estimate; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - Not computed
+MOE_VC125,Margin of Error; Owner-occupied units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME - Housing unit without a mortgage - Not computed
+EST_VC126,Estimate; Renter-occupied units
+MOE_VC126,Margin of Error; Renter-occupied units
+EST_VC128,Estimate; Renter-occupied units - GROSS RENT - Less than $200
+MOE_VC128,Margin of Error; Renter-occupied units - GROSS RENT - Less than $200
+EST_VC129,Estimate; Renter-occupied units - GROSS RENT - $200 to $299
+MOE_VC129,Margin of Error; Renter-occupied units - GROSS RENT - $200 to $299
+EST_VC130,Estimate; Renter-occupied units - GROSS RENT - $300 to $499
+MOE_VC130,Margin of Error; Renter-occupied units - GROSS RENT - $300 to $499
+EST_VC131,Estimate; Renter-occupied units - GROSS RENT - $500 to $749
+MOE_VC131,Margin of Error; Renter-occupied units - GROSS RENT - $500 to $749
+EST_VC132,Estimate; Renter-occupied units - GROSS RENT - $750 to $999
+MOE_VC132,Margin of Error; Renter-occupied units - GROSS RENT - $750 to $999
+EST_VC133,"Estimate; Renter-occupied units - GROSS RENT - $1,000 to $1,499"
+MOE_VC133,"Margin of Error; Renter-occupied units - GROSS RENT - $1,000 to $1,499"
+EST_VC134,"Estimate; Renter-occupied units - GROSS RENT - $1,500 or more"
+MOE_VC134,"Margin of Error; Renter-occupied units - GROSS RENT - $1,500 or more"
+EST_VC135,Estimate; Renter-occupied units - GROSS RENT - No cash rent
+MOE_VC135,Margin of Error; Renter-occupied units - GROSS RENT - No cash rent
+EST_VC136,Estimate; Renter-occupied units - GROSS RENT - Median (dollars)
+MOE_VC136,Margin of Error; Renter-occupied units - GROSS RENT - Median (dollars)
+EST_VC138,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - Less than 15.0 percent
+MOE_VC138,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - Less than 15.0 percent
+EST_VC139,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 15.0 to 19.9 percent
+MOE_VC139,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 15.0 to 19.9 percent
+EST_VC140,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 20.0 to 24.9 percent
+MOE_VC140,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 20.0 to 24.9 percent
+EST_VC141,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 25.0 to 29.9 percent
+MOE_VC141,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 25.0 to 29.9 percent
+EST_VC142,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 30.0 to 34.9 percent
+MOE_VC142,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 30.0 to 34.9 percent
+EST_VC143,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 35.0 percent or more
+MOE_VC143,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - 35.0 percent or more
+EST_VC144,Estimate; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - Not computed
+MOE_VC144,Margin of Error; Renter-occupied units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME - Not computed
